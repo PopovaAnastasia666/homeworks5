@@ -14,13 +14,11 @@ body {
   font-weight: bold;
   text-shadow: 2px 2px 10px #d0da45;
 }
-
 .arrivals {
   padding: 10px 30px;
 }
-
 .block-1 {
-  max-width: 100%;
+  max-width: 220px;
   padding: 10px;
   margin-bottom: 20px;
   background-color: rgba(204, 150, 192, 0.772);
@@ -28,8 +26,6 @@ body {
 
 .block-1-img {
   display: block;
-  max-width: 100%;
-  height: auto;
 }
 
 .block-2 {
@@ -46,7 +42,6 @@ body {
 .info > span {
   font-size: 40px;
 }
-
 .overflow-auto {
   overflow: auto;
 }
@@ -62,15 +57,14 @@ body {
 .block-3 {
   max-width: 800px;
   margin: 0 auto;
+
   background-color: pink;
 }
-
 .items {
   margin-left: 5px;
   margin-right: 5px;
   background-color: #d0da45;
 }
-
 .item {
   width: 20%;
   display: inline-block;
@@ -79,7 +73,6 @@ body {
   padding-right: 10px;
   vertical-align: top;
 }
-
 .content {
   font-size: 15px;
   text-align: center;
@@ -93,16 +86,14 @@ body {
 }
 
 .container {
-  max-width: 100%;
+  max-width: 1050px;
   padding: 112px 0px;
   margin: 0 auto;
 }
-
 .section {
   max-width: 1044px;
   margin-bottom: 70px;
 }
-
 .section-tag {
   color: #5a54f2;
   font-family: "Montserrat" sans-serif;
@@ -113,7 +104,6 @@ body {
   letter-spacing: 0.2px;
   margin-bottom: 10px;
 }
-
 .section-title {
   color: #fff;
   font-family: "Montserrat" sans-serif;
@@ -134,12 +124,10 @@ body {
   letter-spacing: 0.2px;
   max-width: 765px;
 }
-
 .cards {
   max-width: 1049px;
   height: 360px;
 }
-
 .card {
   display: inline-block;
   max-width: 230px;
@@ -149,25 +137,18 @@ body {
   margin-right: 30px;
   vertical-align: top;
 }
-
 .card.item * {
   color: #ffffff;
 }
-
 .card.item {
   background-color: #5a54f2;
 }
-
 .card.card__item {
   margin-top: 48px;
 }
-
 .card-image {
   margin-bottom: 20px;
-  max-width: 100%;
-  height: auto;
 }
-
 .card-title {
   color: #252b42;
   font-family: "Montserrat", sans-serif;
@@ -178,14 +159,12 @@ body {
   letter-spacing: 0.1px;
   margin-bottom: 20px;
 }
-
 .card-line {
   width: 50px;
   height: 2px;
   background: #e74040;
   margin-bottom: 20px;
 }
-
 .card-text {
   color: #737373;
   font-family: "Montserrat", sans-serif;
@@ -195,3 +174,4 @@ body {
   line-height: 20px;
   letter-spacing: 0.2px;
 }
+
